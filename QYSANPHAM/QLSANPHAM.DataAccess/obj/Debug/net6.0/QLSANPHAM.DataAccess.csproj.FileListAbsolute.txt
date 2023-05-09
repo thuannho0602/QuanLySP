@@ -1,0 +1,17 @@
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\bin\Debug\net6.0\QLSANPHAM.DataAccess.deps.json
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\bin\Debug\net6.0\QLSANPHAM.DataAccess.runtimeconfig.json
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\bin\Debug\net6.0\QLSANPHAM.DataAccess.dll
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\bin\Debug\net6.0\QLSANPHAM.DataAccess.pdb
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\bin\Debug\net6.0\QLSANPHAM.Entity.dll
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\bin\Debug\net6.0\QLSANPHAM.Entity.pdb
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\QLSANPHAM.DataAccess.csproj.AssemblyReference.cache
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\QLSANPHAM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\QLSANPHAM.DataAccess.AssemblyInfoInputs.cache
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\QLSANPHAM.DataAccess.AssemblyInfo.cs
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\QLSANPHAM.DataAccess.csproj.CoreCompileInputs.cache
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\QLSANPHAM.DataAccess.csproj.CopyComplete
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\QLSANPHAM.DataAccess.dll
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\refint\QLSANPHAM.DataAccess.dll
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\QLSANPHAM.DataAccess.pdb
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\QLSANPHAM.DataAccess.genruntimeconfig.cache
+D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.DataAccess\obj\Debug\net6.0\ref\QLSANPHAM.DataAccess.dll
