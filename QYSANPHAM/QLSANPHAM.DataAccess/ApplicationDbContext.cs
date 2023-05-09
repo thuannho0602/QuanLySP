@@ -20,10 +20,10 @@ namespace QLSANPHAM.DataAccess
 
         }
         public virtual DbSet<Product> Products { get; set; }
-        protected override void OnModelCreating(ModelBuilder builder)
-        {
-            base.OnModelCreating(builder);
-            builder.Entity<IdentityUser>(entity => { entity.ToTable(name: "User"); });
-        }
+        //protected override void OnModelCreating(ModelBuilder builder)
+        //{
+        //    base.OnModelCreating(builder);
+        //    builder.Entity<IdentityUser>(entity => { entity.ToTable(name: "User"); });
+        //}
     }
 }

@@ -1,0 +1,12 @@
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\bin\Debug\net6.0\QLSANPHAM.Repository.deps.json
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\bin\Debug\net6.0\QLSANPHAM.Repository.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\bin\Debug\net6.0\QLSANPHAM.Repository.pdb
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\obj\Debug\net6.0\QLSANPHAM.Repository.csproj.AssemblyReference.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\obj\Debug\net6.0\QLSANPHAM.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\obj\Debug\net6.0\QLSANPHAM.Repository.AssemblyInfoInputs.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\obj\Debug\net6.0\QLSANPHAM.Repository.AssemblyInfo.cs
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\obj\Debug\net6.0\QLSANPHAM.Repository.csproj.CoreCompileInputs.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\obj\Debug\net6.0\QLSANPHAM.Repository.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\obj\Debug\net6.0\refint\QLSANPHAM.Repository.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\obj\Debug\net6.0\QLSANPHAM.Repository.pdb
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Repository\obj\Debug\net6.0\ref\QLSANPHAM.Repository.dll

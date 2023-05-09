@@ -1,0 +1,12 @@
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\bin\Debug\net6.0\QLSANPHAM.Services.deps.json
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\bin\Debug\net6.0\QLSANPHAM.Services.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\bin\Debug\net6.0\QLSANPHAM.Services.pdb
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\obj\Debug\net6.0\QLSANPHAM.Services.csproj.AssemblyReference.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\obj\Debug\net6.0\QLSANPHAM.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\obj\Debug\net6.0\QLSANPHAM.Services.AssemblyInfoInputs.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\obj\Debug\net6.0\QLSANPHAM.Services.AssemblyInfo.cs
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\obj\Debug\net6.0\QLSANPHAM.Services.csproj.CoreCompileInputs.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\obj\Debug\net6.0\QLSANPHAM.Services.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\obj\Debug\net6.0\refint\QLSANPHAM.Services.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\obj\Debug\net6.0\QLSANPHAM.Services.pdb
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Services\obj\Debug\net6.0\ref\QLSANPHAM.Services.dll

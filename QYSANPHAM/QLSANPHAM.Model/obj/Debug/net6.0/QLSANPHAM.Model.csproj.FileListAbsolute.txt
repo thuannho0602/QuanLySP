@@ -1,0 +1,12 @@
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\bin\Debug\net6.0\QLSANPHAM.Model.deps.json
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\bin\Debug\net6.0\QLSANPHAM.Model.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\bin\Debug\net6.0\QLSANPHAM.Model.pdb
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\obj\Debug\net6.0\QLSANPHAM.Model.csproj.AssemblyReference.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\obj\Debug\net6.0\QLSANPHAM.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\obj\Debug\net6.0\QLSANPHAM.Model.AssemblyInfoInputs.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\obj\Debug\net6.0\QLSANPHAM.Model.AssemblyInfo.cs
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\obj\Debug\net6.0\QLSANPHAM.Model.csproj.CoreCompileInputs.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\obj\Debug\net6.0\QLSANPHAM.Model.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\obj\Debug\net6.0\refint\QLSANPHAM.Model.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\obj\Debug\net6.0\QLSANPHAM.Model.pdb
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Model\obj\Debug\net6.0\ref\QLSANPHAM.Model.dll
