@@ -10,3 +10,15 @@ D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\QLSANPHAM
 D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\refint\QLSANPHAM.Entity.dll
 D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\QLSANPHAM.Entity.pdb
 D:\NguyenMinhThuan\Asp.Net\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\ref\QLSANPHAM.Entity.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\bin\Debug\net6.0\QLSANPHAM.Entity.deps.json
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\bin\Debug\net6.0\QLSANPHAM.Entity.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\bin\Debug\net6.0\QLSANPHAM.Entity.pdb
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\QLSANPHAM.Entity.csproj.AssemblyReference.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\QLSANPHAM.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\QLSANPHAM.Entity.AssemblyInfoInputs.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\QLSANPHAM.Entity.AssemblyInfo.cs
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\QLSANPHAM.Entity.csproj.CoreCompileInputs.cache
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\QLSANPHAM.Entity.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\refint\QLSANPHAM.Entity.dll
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\QLSANPHAM.Entity.pdb
+D:\NguyenMinhThuan\QuanLySP\QYSANPHAM\QLSANPHAM.Entity\obj\Debug\net6.0\ref\QLSANPHAM.Entity.dll

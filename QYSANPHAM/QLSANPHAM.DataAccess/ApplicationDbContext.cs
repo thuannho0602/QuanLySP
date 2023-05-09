@@ -15,11 +15,15 @@ namespace QLSANPHAM.DataAccess
 {
     public class ApplicationDbContext:IdentityDbContext<IdentityUser>
     {
-        public ApplicationDbContext(DbContextOptions options):base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options)
         {
 
         }
         public virtual DbSet<Product> Products { get; set; }
-        
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+            builder.Entity<IdentityUser>(entity => { entity.ToTable(name: "User"); });
+        }
     }
 }
